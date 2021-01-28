@@ -1,0 +1,35 @@
+.slider{
+
+    height: 25%;
+
+}
+body{
+    
+
+
+    background: linear-gradient(to bottom, #d414c4, #d50f91)!important;
+    color: rgb(225 249 2);
+
+ 
+    /* background: #55cc9b; */
+    border: 1px;
+    border-radius: 87px;
+   
+   /* background-repeat: no-repeat; */
+   
+}
+.about{
+    margin-top: 129px;
+}
+
+
+
+
+table, th, td {
+    border: 1px solid wheat;
+    border-collapse: collapse;
+  }
+
+.th{
+    /* border: 2px solid black; */
+}
